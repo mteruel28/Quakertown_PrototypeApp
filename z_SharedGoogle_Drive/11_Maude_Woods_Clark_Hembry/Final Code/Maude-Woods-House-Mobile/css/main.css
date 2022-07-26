@@ -1,0 +1,233 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v2_334 {
+  width: 342px;
+  height: 2593px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_344 {
+  width: 342px;
+  height: 100%;
+  background: rgba(255,255,240,1);
+  opacity: 1;
+  position: absolute;
+  top: 51px;
+  left: 0px;
+}
+.v2_349 {
+  width: 293px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1538px;
+  left: 25px;
+  font-family: American Typewriter;
+  font-weight: Condensed;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v47_4865 {
+  width: 294px;
+  height: 426px;
+  background: url("../images/v47_4865.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 985px;
+  left: 25px;
+  overflow: hidden;
+}
+.v31_3 {
+  width: 292px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 394px;
+  left: 2px;
+  font-family: Eras Light ITC;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v6_373 {
+  width: 294px;
+  height: 383px;
+  background: url("../images/v6_373.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v24_322 {
+  width: 294px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 614px;
+  left: 24px;
+  font-family: American Typewriter;
+  font-weight: Condensed;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v31_2 {
+  width: 294px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 502px;
+  left: 23px;
+  font-family: Eras Light ITC;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v6_375 {
+  width: 294px;
+  height: 227px;
+  background: url("../images/v6_375.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 236px;
+  left: 23px;
+  overflow: hidden;
+}
+.v16_6 {
+  width: 294px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 97px;
+  left: 23px;
+  font-family: Eras Medium ITC;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v47_4862 {
+  width: 294px;
+  color: rgba(51,51,49,1);
+  position: absolute;
+  top: 2089px;
+  left: 28px;
+  font-family: Eras Light ITC;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v112_8 {
+  width: 137px;
+  height: 24px;
+  background: url("../images/v112_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2529px;
+  left: 103px;
+  overflow: hidden;
+}
+.v112_9 {
+  width: 137px;
+  height: 24px;
+  background: rgba(187,183,141,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v112_10 {
+  width: 107px;
+  color: rgba(51,51,49,1);
+  position: absolute;
+  top: 4px;
+  left: 23px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v112_6 {
+  width: 57px;
+  height: 57px;
+  background: url("../images/v112_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2472px;
+  left: 143px;
+  overflow: hidden;
+}
+.v2_361 {
+  width: 342px;
+  height: 80px;
+  background: url("../images/v2_361.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_362 {
+  width: 342px;
+  height: 78px;
+  background: rgba(51,51,49,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v112_5 {
+  width: 33px;
+  height: 66px;
+  background: url("../images/v112_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 33px;
+  overflow: hidden;
+}
+.v112_7 {
+  width: 73px;
+  height: 73px;
+  background: url("../images/v112_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  left: 253px;
+  overflow: hidden;
+}
