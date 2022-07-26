@@ -1,0 +1,221 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v158_119 {
+  width: 744px;
+  height: 3951px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v158_120 {
+  width: 744px;
+  height: 100%;
+  background: rgba(255,255,240,1);
+  opacity: 1;
+  position: absolute;
+  top: 103px;
+  left: 0px;
+  overflow: hidden;
+}
+.v162_102 {
+  width: 172px;
+  height: 31px;
+  background: rgba(187,183,141,1);
+  opacity: 1;
+  position: absolute;
+  top: 3870px;
+  left: 286px;
+  overflow: hidden;
+}
+.v162_103 {
+  width: 135px;
+  color: rgba(51,51,49,1);
+  position: absolute;
+  top: 3876px;
+  left: 316px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v187_5 {
+  width: 66px;
+  height: 64px;
+  background: url("../images/v187_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 3806px;
+  left: 340px;
+  overflow: hidden;
+}
+.v162_107 {
+  width: 344px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 133px;
+  left: 64px;
+  font-family: Eras Medium ITC;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v162_113 {
+  width: 655px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1201px;
+  left: 64px;
+  font-family: Eras Light ITC;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v162_114 {
+  width: 616px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3593px;
+  left: 65px;
+  font-family: Eras Light ITC;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v162_115 {
+  width: 617px;
+  height: 937px;
+  background: url("../images/v162_115.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 216px;
+  left: 65px;
+  overflow: hidden;
+}
+.v162_116 {
+  width: 615px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1241px;
+  left: 65px;
+  font-family: American Typewriter;
+  font-weight: Condensed;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v162_117 {
+  width: 615px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1351px;
+  left: 65px;
+  font-family: American Typewriter;
+  font-weight: Condensed;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v162_111 {
+  width: 615px;
+  height: 783px;
+  background: url("../images/v162_111.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1449px;
+  left: 65px;
+  overflow: hidden;
+}
+.v162_112 {
+  width: 615px;
+  height: 783px;
+  background: url("../images/v162_112.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 1px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v162_109 {
+  width: 615px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2328px;
+  left: 65px;
+  font-family: American Typewriter;
+  font-weight: Condensed;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v162_110 {
+  width: 616px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2282px;
+  left: 65px;
+  font-family: Eras Light ITC;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v158_122 {
+  width: 744px;
+  height: 103px;
+  background: rgba(51,51,49,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v187_3 {
+  width: 73px;
+  height: 73px;
+  background: url("../images/v187_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  left: 604px;
+  overflow: hidden;
+}
+.v187_4 {
+  width: 178px;
+  height: 64px;
+  background: url("../images/v187_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 66px;
+  overflow: hidden;
+}
